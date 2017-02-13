@@ -31,7 +31,7 @@ function setGameLayout()
 
     if(firstTime==1)
     {
-        //alert("Togepi is a very simple minded playful baby pokemon\nTogepi wants to play all the time\nAnd while playing Togepi often gets lost\nPlease help us to find the baby Togepi");
+        alert("Togepi is a very simple minded playful baby pokemon\nTogepi wants to play all the time\nAnd while playing Togepi often gets lost\nPlease help us to find the baby Togepi");
         firstTime=0;
     }
 
